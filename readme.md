@@ -16,7 +16,7 @@ intellisense should just work so long as you have set up the IDF_PATH environmen
 
 ## flashing the esp32
 
-1. in vs code, open a new terminal by pressing ctrl + (or pressing F1 and typing `open new terminal`)
+1. in vs code, open a new terminal by pressing ctrl + \` (or pressing F1 and typing `open new terminal`)
 2. type the following command
 
 ```bash
