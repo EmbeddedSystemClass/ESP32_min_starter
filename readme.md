@@ -19,5 +19,20 @@ intellisense should just work so long as you have set up the IDF_PATH environmen
 1. in vs code, open a new terminal by pressing ctrl + \` (or pressing F1 and typing `open new terminal`)
 2. type the following command
 
+### for setups with idf.py
+
 ```bash
 idf.py -p [your com port] flash monitor
+```
+
+### or other versions -
+*to set your com port*
+```bash
+make menuconfig 
+```
+set your com port in the menu under serial
+then
+```
+make flash monitor
+```
+
