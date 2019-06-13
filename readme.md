@@ -4,7 +4,7 @@
 
 1. setup your toolchain and ESP-IDF as described in the [official documentation](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/#step-1-set-up-the-toolchain)
 
-2. add an environment variable called `IDF_TOOLS` that points to the tools directory in the extensia  installation (C:\Program Files\Espressif\ESP-IDF Tools\tools)
+2. add an additional environment variable called `IDF_TOOLS` that points to the tools directory in the extensia  installation (C:\Program Files\Espressif\ESP-IDF Tools\tools)
    
 3. ensure tour ESP32 is plugged in and that a COM PORT is established (You may need a driver for your ESP32 dev board)
 
