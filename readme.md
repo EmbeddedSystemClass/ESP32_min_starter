@@ -10,7 +10,7 @@
 
 ## vs code intellisense
 
-intellisense should just work so long as you have set up the IDF_PATH environment variable as described in the [official documentation] [official documentation](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/#step-1-set-up-the-toolchain) and the IDF_TOOLS as described above.
+intellisense should just work so long as you have set up the IDF_PATH environment variable as described in the [official documentation](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/#step-1-set-up-the-toolchain) and the IDF_TOOLS as described above.
 
 >NB. you may meed to do an initial build and restart vscode before it can resolve all variables.
 
